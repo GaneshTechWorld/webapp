@@ -30,13 +30,13 @@
     <repository>
       <id>nexus</id>
       <name>Ganesh Releases Nexus Repo</name>
-      <url>http://52.66.203.227:8081/repository/maven-releases/</url>
+      <url>http://65.2.169.208:8081/repository/maven-releases/</url>
     </repository>
 
     <snapshotRepository>
       <id>nexus</id>
       <name>Ganesh Snapshots Nexus Repo</name>
-      <url>http://52.66.203.227:8081/repository/maven-snapshots/</url>
+      <url>http://65.2.169.208:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
