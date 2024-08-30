@@ -25,12 +25,4 @@
       </plugin>
     </plugins>
   </build>
-
-  <distributionManagement>
-    <repository>
-      <id>jenkins</id>
-      <name>Ganesh Releases Nexus Repo</name>
-      <url>http://3.109.214.248:8081/repository/mymaven/</url>
-    </repository>
-  </distributionManagement>
 </project>
