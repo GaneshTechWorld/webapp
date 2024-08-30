@@ -28,15 +28,9 @@
 
   <distributionManagement>
     <repository>
-      <id>nexus</id>
+      <id>jenkins</id>
       <name>Ganesh Releases Nexus Repo</name>
-      <url>http://65.2.169.208:8081/repository/maven-releases/</url>
+      <url>http://3.109.214.248:8081/repository/mymaven/</url>
     </repository>
-
-    <snapshotRepository>
-      <id>nexus</id>
-      <name>Ganesh Snapshots Nexus Repo</name>
-      <url>http://65.2.169.208:8081/repository/maven-snapshots/</url>
-    </snapshotRepository>
   </distributionManagement>
 </project>
